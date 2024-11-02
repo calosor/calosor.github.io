@@ -3,30 +3,30 @@
   contents:
     - name: Full Name
       value: Calogero Sortino
-    - name: Date of Birth
-      value: 14th March 1879
+    
     - name: Languages
-      value: English, German
+      value: English (fluent), Italian (native)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.A. Economics, 
+      institution: Collegio Carlo Alberto,Italy
+      year: 2024
+      
+    - title: M.A. Economic and Financial Analysis
+      institution: University of Palermo, Italy
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis title: The regional economic effects of Climate Change Policies (CCPs).
+        - Awards: Graduated Summa Cum Laude
+
+    - title: B.A. Economics and Finance
+      institution: University of Palermo, Italy
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        
+        
 
 - title: Experience
   type: time_table
