@@ -34,18 +34,20 @@
       institution: Collegio Carlo Alberto, Ben-Gurion University of the Negev
       year: 2024
       description:
-        - Supervisors:Elena Esposito (CCA, University of Turin), Ada González-Torres
-(Ben-Gurion University of the Negev)
-        - Main tasks:Data analysis, Reviewing literature, Contribute to draft paper
-and/or presentations
+        - Supervisors:|
+            Elena Esposito (CCA, University of Turin), Ada González-Torres
+            (Ben-Gurion University of the Negev)
+        - Main tasks:|
+            Data analysis, reviewing literature, contributing to draft paper
+            and/or presentations
         
     - title: Research Assistant
       institution: Free University of Bozen-Bolzano
       year: 2024-2025
       description:
-        - Supervisors:Federico Boffa (University of Bolzano), Jakub Kastl (Princeton Uni-
-versity), Juha Tolvanen (Tor Vergata University of Rome).
-      
+        - Supervisors:|
+            Federico Boffa (University of Bolzano), Jakub Kastl (Princeton University), 
+            Juha Tolvanen (Tor Vergata University of Rome)
 
 - title: Schools and Post Graduate Courses
   type: time_table
