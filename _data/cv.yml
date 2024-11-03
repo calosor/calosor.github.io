@@ -4,8 +4,7 @@
     - name: Full Name
       value: Calogero Sortino
     
-    - name: Languages
-      value: English (fluent), Italian (native)
+    
 
 - title: Education
   type: time_table
