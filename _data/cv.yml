@@ -18,7 +18,7 @@
       institution: University of Palermo, Italy
       year: 2022
       description:
-        - Thesis title:The regional economic effects of Climate Change Policies (CCPs).
+        - Thesis title:The regional economic effects of Climate Change Policies (CCPs)
         - Graduated Summa Cum Laude
 
     - title: B.A. Economics and Finance
@@ -31,54 +31,46 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Collegio Carlo Alberto, Ben-Gurion University of the Negev
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Supervisors:Elena Esposito (CCA, University of Turin), Ada González-Torres
+(Ben-Gurion University of the Negev)
+        - Main tasks:Data analysis, Reviewing literature, Contribute to draft paper
+and/or presentations
+        
+    - title: Research Assistant
+      institution: Free University of Bozen-Bolzano
+      year: 2024-2025
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisors:Federico Boffa (University of Bolzano), Jakub Kastl (Princeton Uni-
+versity), Juha Tolvanen (Tor Vergata University of Rome).
+      
 
-- title: Open Source Projects
+- title: Schools and Post Graduate Courses
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: SIdE-VERA School in Network Econometrics 2024
+      institution: University Ca Foscari of Venice, Italy
+      year: 2024
+      description: 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Econometrics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        
+    - title: Environmental Economics
       items:
-        - Description 1.
-        - Description 2.
+      
+    - title: Health Economics
+      items:
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Languages:</u> Italian (Native), English (Fluent)
+    - <u>Coding:</u> STATA, Python, Matlab, R, Latex
