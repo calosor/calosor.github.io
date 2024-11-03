@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Calogero Sortino # the website title (if blank, full name will be used instead)
-first_name: Calogero
+title: # the website title (if blank, full name will be used instead)
+first_name: <b>Calogero</b>
 middle_name: 
 last_name: Sortino
 email: calogerosortino209@gmail.com
