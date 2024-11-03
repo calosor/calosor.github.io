@@ -34,11 +34,9 @@
       institution: Collegio Carlo Alberto, Ben-Gurion University of the Negev
       year: 2024
       description:
-        - Supervisors:|
-            Elena Esposito (CCA, University of Turin), Ada González-Torres
+        - Supervisors:Elena Esposito (CCA, University of Turin), Ada González-Torres
             (Ben-Gurion University of the Negev)
-        - Main tasks:|
-            Data analysis, reviewing literature, contributing to draft paper
+        - Main tasks:Data analysis, reviewing literature, contributing to draft paper
             and/or presentations
         
     - title: Research Assistant
@@ -59,19 +57,12 @@
 
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Econometrics
-      items:
-        
-    - title: Environmental Economics
-      items:
-      
-    - title: Health Economics
-      items:
-
+    - Econometrics, Environmental Economics, Health Economics
+   
 - title: Skills
   type: list
   contents:
-    - <u>Languages:</u> Italian (Native), English (Fluent)
-    - <u>Coding:</u> STATA, Python, Matlab, R, Latex
+    - <b>Languages:</b> Italian (Native), English (Fluent)
+    - <b>Coding:</b> STATA, Python, Matlab, R, LaTeX
