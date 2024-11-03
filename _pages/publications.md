@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: research
-description: publications by categories in reversed chronological order
+description: Ongoing research coming soon...
 nav: true
 nav_order: 2
 ---

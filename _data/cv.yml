@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.A. Economics, 
+    - title: M.A. Economics 
       institution: Collegio Carlo Alberto,Italy
       year: 2024
       
@@ -30,6 +30,15 @@
 - title: Experience
   type: time_table
   contents:
+  
+    - title: Research Assistant
+      institution: Free University of Bozen-Bolzano
+      year: 2024-2025
+      description:
+        - Supervisors:Federico Boffa (University of Bolzano), Jakub Kastl (Princeton University), 
+            Juha Tolvanen (Tor Vergata University of Rome)
+
+
     - title: Research Assistant
       institution: Collegio Carlo Alberto, Ben-Gurion University of the Negev
       year: 2024
@@ -39,12 +48,7 @@
         - Main tasks:Data analysis, reviewing literature, contributing to draft paper
             and/or presentations
         
-    - title: Research Assistant
-      institution: Free University of Bozen-Bolzano
-      year: 2024-2025
-      description:
-        - Supervisors:Federico Boffa (University of Bolzano), Jakub Kastl (Princeton University), 
-            Juha Tolvanen (Tor Vergata University of Rome)
+
 
 - title: Schools and Post Graduate Courses
   type: time_table
