@@ -9,9 +9,7 @@ profile:
   image: foto_sito.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: calogerosortino209@gmail.com</p>
-    <p>Linkedin: https://www.linkedin.com/in/calogerosortino/</p>
-    <p>Github: https://github.com/calosor</p>
+
 
 
 news: false # includes a list of news items
