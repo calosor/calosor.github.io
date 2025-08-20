@@ -9,12 +9,18 @@
 - title: Education
   type: time_table
   contents:
+
+      - title: Ph.D. in Economics 
+      institution: Bocconi University, Milan, Italy
+      year: 2024
+
+
     - title: M.A. Economics 
-      institution: Collegio Carlo Alberto,Italy
+      institution: Collegio Carlo Alberto, Turin, Italy
       year: 2024
       
     - title: M.A. Economic and Financial Analysis
-      institution: University of Palermo, Italy
+      institution: University of Palermo, Palermo, Italy
       year: 2022
       description: 
          - "<b>Thesis title:</b> The regional economic effects of Climate Change Policies (CCPs)"
@@ -22,7 +28,7 @@
          - "<b>Graduated Summa Cum Laude</b>"
 
     - title: B.A. Economics and Finance
-      institution: University of Palermo, Italy
+      institution: University of Palermo, Palermo, Italy
       year: 2020
       description:
         
@@ -33,7 +39,7 @@
   contents:
   
     - title: Research Assistant
-      institution: Free University of Bozen-Bolzano
+      institution: Free University of Bozen-Bolzano, Bozen, Italy
       year: 2024-2025
       description:  
         - "<b>Supervisors:</b> Federico Boffa (University of Bolzano), Jakub Kastl (Princeton University), 
@@ -41,7 +47,7 @@
 
 
     - title: Research Assistant
-      institution: Collegio Carlo Alberto, Ben-Gurion University of the Negev
+      institution: Ben-Gurion University of the Negev, Beer-Sheva, Israel
       year: 2024
       description: 
          - "<b>Supervisors:</b> Elena Esposito (CCA, University of Turin), Ada González-Torres
@@ -49,7 +55,7 @@
 
 
     - title: Management Consulting Analyst
-      institution: Accenture Italia
+      institution: Accenture Italia, Milan, Italy
       year: 2023
       description: 
          - "<b>Role:</b> Capital Markets Analyst"
