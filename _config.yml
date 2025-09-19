@@ -314,7 +314,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Sortino]
-  first_name: [Calogero]
+  first_name: [Calogero, Emanuele]
 
   style: apa
   locale: en
