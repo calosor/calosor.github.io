@@ -23,7 +23,7 @@ repository               : "calosor/calosor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   name             : "Calogero, Emanuele Sortino"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Bocconi University"
